@@ -1,0 +1,84 @@
+baseURL: "https://anveshdange.github.io/website/"
+languageCode: en
+title: "Anvesh Dange"
+theme: "PaperMod"
+paginate: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+enableRobotsTXT: true
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Posts
+          url: posts
+          weight: 5
+        # - name: Misc
+        #   url: misc
+        #   weight: 10
+        # - name: CV
+        #   url: cv.pdf
+        #   weight: 99
+
+params:
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  env: production
+  defaultTheme: auto
+
+  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowToc: true
+  hideMeta: true
+
+  homeInfoParams:
+    Title: "🤔 Welcome to Anvesh's Website!"
+    Content: >
+      Greetings 👋. I am Anvesh, thanks for visiting my side of the internet ～ 
+
+      - I am a 3rd Year BTech student in Artificial Intelligence from India.
+
+      - I am passionate in AI (specifically Deep Generative Models, Stable Diffusion, Transformers etc).
+
+      - Also, I like to learn about the deep learning research and SOTA algorithms in their domain.  
+
+      - I'll be documenting my learning notes here, as well as anything else that catches my fancy.
+
+      - You can read more about me [here](about)!
+
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/anveshdange"
+    - name: "Twitter"
+      url: "https://twitter.com/anveshdange"
+    # - name: "Scholar"
+    #   url: "https://scholar.google.com/citations?user=rhDSi6AAAAAJ"
+    - name: "Email"
+      url: "mailto:dangeanv@gmail.com"
+    # - name: "RSS"
+    #   url: "/index.xml"
+
+    - name: 'Instagram' 
+      url: "https://instagram.com/anveshdange07"
+
+  cover:
+    linkFullImages: true
