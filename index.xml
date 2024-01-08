@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anvesh Dange</title>
+    <link>https://anveshdange.github.io/website/</link>
+    <description>Recent content on Anvesh Dange</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://anveshdange.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Website</title>
+      <link>https://anveshdange.github.io/website/posts/2024-01-07-new-site/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://anveshdange.github.io/website/posts/2024-01-07-new-site/</guid>
+      <description>A Blog post on why I wanted to create this Blog website</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://anveshdange.github.io/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://anveshdange.github.io/website/about/</guid>
+      <description>Greetings 👋, my name is Anvesh Dange! I am an AI enthusiast (primarily deep generative modeling, multimodal models, Transformer, Neural Networks), tinker with Linux, and explore anything else I fancy. I happen to be a Junior Student doing Bachelors in Artificial Intelligence.
+Outside of the computer-sphere, I enjoy productively procrastinating by watching Anime &amp;amp; yt videos. I also have an interest in (slowly) learning games like chess.
+I&amp;rsquo;m using this site to document and consolidate my learning and to highlight any interesting projects I&amp;rsquo;m working on.</description>
+    </item>
+  </channel>
+</rss>
