@@ -6,8 +6,15 @@
     <description>Recent content on Anvesh Dange</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://anveshdange.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding AlexNet</title>
+      <link>https://anveshdange.github.io/website/posts/imagenet/main/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://anveshdange.github.io/website/posts/imagenet/main/</guid>
+      <description>In this blog we breakdown the ground breaking paper on ImageNet Challenge </description>
+    </item>
     <item>
       <title>A New Website</title>
       <link>https://anveshdange.github.io/website/posts/2024-01-07-new-site/</link>

@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Anvesh Dange</title>
-    <link>https://anveshdange.github.io/website/posts/</link>
-    <description>Recent content in Posts on Anvesh Dange</description>
+    <title>First on Anvesh Dange</title>
+    <link>https://anveshdange.github.io/website/tags/first/</link>
+    <description>Recent content in First on Anvesh Dange</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anveshdange.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anveshdange.github.io/website/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding AlexNet</title>
       <link>https://anveshdange.github.io/website/posts/imagenet/main/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://anveshdange.github.io/website/posts/imagenet/main/</guid>
       <description>In this blog we breakdown the ground breaking paper on ImageNet Challenge </description>
-    </item>
-    <item>
-      <title>A New Website</title>
-      <link>https://anveshdange.github.io/website/posts/2024-01-07-new-site/</link>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://anveshdange.github.io/website/posts/2024-01-07-new-site/</guid>
-      <description>A Blog post on why I wanted to create this Blog website</description>
     </item>
   </channel>
 </rss>
